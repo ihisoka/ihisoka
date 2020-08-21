@@ -62,15 +62,6 @@
 
 ---
 
-
-  :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
-
-
-
   :zap: Github Stats
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ihisoka&show_icons=true&hide_border=true" />
