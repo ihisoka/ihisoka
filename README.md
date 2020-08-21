@@ -78,12 +78,11 @@
 
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
+:zap: Github Stats
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ihisoka&show_icons=true&hide_border=true" />
 
-</details>
+
 
 [website]: https://hosinox.com
 [twitter]: https://twitter.com/codeSTACKr
