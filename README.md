@@ -64,6 +64,8 @@
 
   <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ihisoka&show_icons=true&hide_border=true&count_private=true" />
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihisoka)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 [website]: https://hosinox.com
