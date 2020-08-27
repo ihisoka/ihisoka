@@ -1,6 +1,6 @@
 ### Hi there, I'm Tarek - aka [easyhq][website] 👋
 
-[![Website](https://img.shields.io/website?label=https://ihisoka.github.io/Profile/&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ihisoka.github.io/Profile/)
+[![Website](https://img.shields.io/website?label=ihisoka.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ihisoka.github.io/Profile/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/easyhq?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fihisoka&screen_name=easyhq)
 
 ## I'm a Developer and Teacher!
